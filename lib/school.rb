@@ -3,3 +3,7 @@ class School
     @name = name 
   end 
 end 
+
+  def roster
+    roster = []
+  end 
